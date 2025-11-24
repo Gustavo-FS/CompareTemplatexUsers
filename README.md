@@ -1,4 +1,4 @@
-🧩 Validação de OU x Template – Script PowerShell
+**🧩 Validação de OU x Template – Script PowerShell**
 
 Versão: 2.1.0
 Autor: Gustavo Fernandes
